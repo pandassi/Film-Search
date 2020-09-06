@@ -12,8 +12,8 @@
 		"react-scripts": "3.4.1"
 	},
 	"engines": {
-		"node": "9.5.0",
-		"yarn": "1.0.0"
+		"node": "14.4.0",
+		"yarn": "1.22.5"
 	},
 	"scripts": {
 		"start": "react-scripts start",
